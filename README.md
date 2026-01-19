@@ -1,4 +1,4 @@
-SAP Subsidiary Program
+SAP Subsidiary Program - A 1st year college student project.
 
 Java Swing application that calculates SAP subsidies for 4Ps and non-4Ps members.
 
@@ -8,5 +8,3 @@ Features
 - Handles user input validation
 
 
-
-A 1st Year College Student Project.
