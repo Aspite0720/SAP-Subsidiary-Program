@@ -7,3 +7,4 @@ Features
 - Select region and check subsidy
 - Handles user input validation
 
+A 1st Year College Student Project.
